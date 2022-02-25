@@ -14,7 +14,8 @@ And to Graphiql: [graphiql](http://localhost:8000/graphql#query=query%20%7B%0A%2
 
 
 
-Other Resources:
-https://programwithus.com/learn/python/pip-virtualenv-mac
-
-https://www.youtube.com/watch?v=kP7wQoFXUSc&list=PLOLrQ9Pn6caxz00JcLeOR-Rtq0Yi01oBH&index=1
+Other Resources:<br>
+<ul>
+  <li>https://programwithus.com/learn/python/pip-virtualenv-mac</li>
+  <li>https://www.youtube.com/watch?v=kP7wQoFXUSc&list=PLOLrQ9Pn6caxz00JcLeOR-Rtq0Yi01oBH&index=1</li>
+</ul>
